@@ -1,2 +1,2 @@
 # projtest
-Git tests
+Git AWESOME tests
